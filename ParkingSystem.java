@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+//第二次提交示范
 public class ParkingSystem implements IParking {
     int big, mid, small;
     String result = "null,";
